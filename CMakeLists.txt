@@ -29,6 +29,7 @@ Grasp.msg
 GripperTranslation.msg
 JointConstraint.msg
 JointLimits.msg
+LineConstraint.msg
 LinkPadding.msg
 LinkScale.msg
 MotionPlanRequest.msg
