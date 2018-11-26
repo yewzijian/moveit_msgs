@@ -12,3 +12,5 @@ OrientationConstraint[] orientation_constraints
 VisibilityConstraint[] visibility_constraints
 
 LineConstraint[] line_constraints
+
+CircleConstraint[] circle_constraints

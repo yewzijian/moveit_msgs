@@ -30,6 +30,7 @@ GripperTranslation.msg
 JointConstraint.msg
 JointLimits.msg
 LineConstraint.msg
+CircleConstraint.msg
 LinkPadding.msg
 LinkScale.msg
 MotionPlanRequest.msg
